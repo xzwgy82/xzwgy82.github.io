@@ -1,0 +1,13 @@
+body {color:white;text-align:center;}
+/*文本居中，白色*/
+@font-face{
+	font-family: 'lolita';
+	src: url('../fonts/lolita.ttf');
+}
+body{
+	font-family: "lolita";
+}
+/*设置字体萝莉体*/
+a:link {color:#FFFFFF;}/*未访问链接*/
+a:visited {color:#FFFFFF;}/*已访问链接*/
+/*美化标题栏链接*/

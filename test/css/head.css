@@ -1,0 +1,7 @@
+#ul{
+    list-style-type:none; /*删除无序列表的项目符号*/
+}
+
+#cw/*crosswine*/{
+    display:inline;  /*横向排序*/
+}
